@@ -66,7 +66,6 @@ body{background:#fff}
 /* comm css */
 .Ued-warp{margin:0 auto; width:100%; height:100%;}
 .container{margin:0 auto; padding:0 12px; max-width:1164px; min-width:1024px;}
-.container1{margin:0 auto; padding:0 12px; max-width:1164px; min-width:320px;}
 .Ued-case,.Ued-index-contact,.Ued-clients,.Ued-friends,.Ued-items-list,.Ued-abtdiv,.Ued-gettouch,.Ued-about,.Ued-data,.Ued-space,.Ued-team,.Ued-job{width:100%; min-width:1024px; padding:88px 0;}
 .bg-white{background-color:#ffffff;}
 .bg-gray{background-color:#f8f8f8;}
